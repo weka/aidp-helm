@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  aidp:
+  - apiVersion: v2
+    appVersion: 3.0.0
+    created: "2026-04-22T09:25:59.592032+10:00"
+    description: WEKA AI Data Pipeline — unified chart for watcher control plane,
+      space manager, RAG gateway, and RAG bridge
+    digest: e63e066dd2458bb7dfe508efa7bffa77a2ee5a62b17b09196f885b8061ae8948
+    keywords:
+    - weka
+    - aidp
+    - rag
+    - vectordb
+    - space-manager
+    maintainers:
+    - name: Christopher Jenkins
+    name: aidp
+    type: application
+    urls:
+    - https://weka.github.io/aidp-helm/aidp-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-22T09:25:59.590369+10:00"
