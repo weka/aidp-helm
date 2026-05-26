@@ -3,7 +3,7 @@ entries:
   aidp:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.653878+10:00"
+    created: "2026-05-26T11:22:28.414045+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: 64193aafc011d3fe76b76919eaf3b4cd1882f135f81b4908fc5a36a4a92d166a
@@ -22,7 +22,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.651779+10:00"
+    created: "2026-05-26T11:22:28.411507+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: e4043d86fea49f806620ec2fbfa5de41a8a03ca9805d52094df61006d866b1e0
@@ -41,7 +41,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.665205+10:00"
+    created: "2026-05-26T11:22:28.429164+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: 77e58f4f5b2509a2d4013ee001dee5c33ec55be6a75fb4da06475d577d003770
@@ -60,7 +60,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.663333+10:00"
+    created: "2026-05-26T11:22:28.42736+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: 036a2202a6f3718819b9697aeb92cd7ef7dc25184705a5d353fb38e67a2c25ff
@@ -79,7 +79,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.661965+10:00"
+    created: "2026-05-26T11:22:28.425827+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: 28e8defe4b5adf10e2be65512670087fe31b7ca28891b9e22961528ccff2e49a
@@ -98,7 +98,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.660426+10:00"
+    created: "2026-05-26T11:22:28.423527+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: d082bc10f50e3bf889bd5e536c40cbedd235697d3caa071731e3c3dbdadf7077
@@ -117,7 +117,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.658997+10:00"
+    created: "2026-05-26T11:22:28.422035+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: e2a814022d2d375e2d8d30356e443889aa6db1b739e9ec808e33b69f250f241d
@@ -136,7 +136,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.657754+10:00"
+    created: "2026-05-26T11:22:28.420491+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: d810768cf967cd7c57e1fd71edd894a39d2ce1ebde384bdebb79db8c2a83bfb2
@@ -155,7 +155,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.656508+10:00"
+    created: "2026-05-26T11:22:28.419109+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: e3203a7edc820ae101c60e587d33b6867850b97ae21c9327edeb4a8e5b1dd8dd
@@ -174,7 +174,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.655249+10:00"
+    created: "2026-05-26T11:22:28.416057+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: ee735fc3bedfafd7dd54eaef34a5ece29230a4efb465c10cdcb4c8d1dfbc4a2e
@@ -193,7 +193,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.649988+10:00"
+    created: "2026-05-26T11:22:28.409417+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: 6e9b73b9624ff5dac829db7ccb5dbe40b0ef6b91bed58b901b0d08454ec95f07
@@ -212,7 +212,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2026-05-26T11:19:18.648704+10:00"
+    created: "2026-05-26T11:22:28.407851+10:00"
     description: WEKA AI Data Pipeline — unified chart for watcher control plane,
       space manager, RAG gateway, and RAG bridge
     digest: e63e066dd2458bb7dfe508efa7bffa77a2ee5a62b17b09196f885b8061ae8948
@@ -276,7 +276,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.827992+10:00"
+    created: "2026-05-26T11:22:28.57789+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -320,7 +320,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.812212+10:00"
+    created: "2026-05-26T11:22:28.562238+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -364,7 +364,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.796344+10:00"
+    created: "2026-05-26T11:22:28.545785+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -408,7 +408,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.779987+10:00"
+    created: "2026-05-26T11:22:28.529664+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -452,7 +452,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.763822+10:00"
+    created: "2026-05-26T11:22:28.513126+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -496,7 +496,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.747091+10:00"
+    created: "2026-05-26T11:22:28.49669+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -540,7 +540,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.731437+10:00"
+    created: "2026-05-26T11:22:28.480216+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -584,7 +584,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.698018+10:00"
+    created: "2026-05-26T11:22:28.463558+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -628,7 +628,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 3.2.0
-    created: "2026-05-26T11:19:18.681979+10:00"
+    created: "2026-05-26T11:22:28.446375+10:00"
     dependencies:
     - condition: loki.enabled
       name: loki
@@ -670,4 +670,4 @@ entries:
     urls:
     - https://weka.github.io/aidp-helm/aidp-observability-0.1.0.tgz
     version: 0.1.0
-generated: "2026-05-26T11:19:18.646854+10:00"
+generated: "2026-05-26T11:22:28.403561+10:00"
